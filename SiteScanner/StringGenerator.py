@@ -41,4 +41,4 @@ class StringGenerator:
         if self.indici[index] == len(self.alphabeth):
             self.indici[index] = 0
             self.indici[index - 1] += 1
-            self._check(index - 1)
+            self._check(index - 2)
