@@ -1,7 +1,7 @@
 # WebSiteScanner
 Website's scanner searching for a specified pattern
 -----------------------------------------------------------
-It's based of the first part of the URL that will be concat to a final one of a specified length in order to find a pattern in the resulted page.
+It's based on the first part of the URL that will be concat to a final one of a specified length in order to find a pattern in the resulted page.
 
 For example we can scan Instagram's posts with the base URL 'instagram.com/p/' and an alphanumeric string, then find the direct URL of the photo and download it.
 
